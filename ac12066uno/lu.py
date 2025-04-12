@@ -69,4 +69,6 @@ if __name__ == "__main__":
     ]
     resultado = lu_solver(sistema)
     print("Solución:", resultado)
+
+    #Solución: [1.666, 1.0, 0.666]
 """

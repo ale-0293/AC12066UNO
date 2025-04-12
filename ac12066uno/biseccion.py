@@ -44,4 +44,6 @@ if __name__ == "__main__":
 
     raiz = biseccion(f, 1, 2)
     print("Raíz aproximada:", raiz)
+
+    #Solución: Raíz aproximada: 1.521...
 """

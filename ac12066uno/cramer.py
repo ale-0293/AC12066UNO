@@ -62,4 +62,6 @@ if __name__ == "__main__":
     ]
     resultado = cramer_solver(sistema)
     print("Solución:", resultado)
+
+    #Solución: [2.0, 3.0, -1.0]
 """

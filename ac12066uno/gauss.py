@@ -37,7 +37,7 @@ def gauss_elimination(matrix):
     return x
 
 # Prueba de la función
-"""
+#"""
 if __name__ == "__main__":
     sistema = [
         [2, 1, -1, 8],
@@ -47,4 +47,4 @@ if __name__ == "__main__":
 
     resultado = gauss_elimination(sistema)
     print("Solución:", resultado)
-"""
+#"""
